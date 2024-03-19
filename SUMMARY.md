@@ -1,6 +1,6 @@
 # Table of contents
 
-* [👀 Predictoor](README.md)
+* [Predictoor](README.md)
 * [Introduction](pdr-intro.md)
 * [Architecture](pdr-architecture.md)
 * [How to Earn](pdr-earn.md)

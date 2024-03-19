@@ -1,13 +1,8 @@
 ---
-description: Tomorrow belongs to those who can hear it coming. — David Bowie
+description: Run AI-powered prediction bots or trading bots on crypto price feeds to earn $
 cover: ../.gitbook/assets/cover/predictoor_banner.png
 coverY: 0
 ---
-
-# Summary
-
-
-> **Run AI-powered prediction bots or trading bots on crypto price feeds to earn $.**
 
 Ocean Predictoor provides on-chain "prediction feeds" on whether ETH, BTC, etc will rise in the next 5 min or 60 min. "**Predictoors**" submit predictions and stake on them; predictions are aggregated and sold to **traders** as alpha. Get started at [predictoor.ai](https://predictoor.ai).
 
@@ -28,6 +23,8 @@ Ocean Predictoor provides on-chain "prediction feeds" on whether ETH, BTC, etc w
 
 Finally, join us on [**Discord**](https://discord.gg/TnXjkR5) to chat with other predictoors, traders, or devs in the Predictoor ecosystem.
 
+
+_Tomorrow belongs to those who can hear it coming. — David Bowie_
 
 ----
 
