@@ -1,9 +1,9 @@
 # Table of contents
 
-* [👀 Predictoor](predictoor/README.md)
-  * [Introduction](predictoor/pdr-intro.md)
-  * [Architecture](predictoor/pdr-architecture.md)
-  * [How to Earn](predictoor/pdr-earn.md)
-  * [Parameters](predictoor/pdr-parameters.md)
-  * [Pdr FAQ](predictoor/pdr-faq.md)  
-  * [Pdr Resources](predictoor/pdr-resources.md)
+* [👀 Predictoor](README.md)
+* [Introduction](pdr-intro.md)
+* [Architecture](pdr-architecture.md)
+* [How to Earn](pdr-earn.md)
+* [Parameters](pdr-parameters.md)
+* [Pdr FAQ](pdr-faq.md)  
+* [Pdr Resources](pdr-resources.md)
