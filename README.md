@@ -17,7 +17,7 @@ Ocean Predictoor provides on-chain "prediction feeds" on whether ETH, BTC, etc w
 - [Architecture](pdr-architecture.md) - structure, behavior, privacy
 - [How to earn](pdr-earn.md) by running a trader or predictoor bot
   - [Pdr-backend repo](https://github.com/oceanprotocol/pdr-backend) - how to run bots, specifically
-  - [Predictoor Data Farming](https://docs.oceanprotocol.com/data-farming/predictoordf.md) - baseline sales $  for running predictoor bots
+  - [Predictoor Data Farming](https://docs.oceanprotocol.com/data-farming/predictoordf) - baseline sales $  for running predictoor bots
 - [Parameters](pdr-parameters.md) on price of feeds, more
 - [FAQ](pdr-faq.md) and [further resources](pdr-resources.md)
 

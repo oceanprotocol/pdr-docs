@@ -13,7 +13,7 @@ Typical steps as a Predictoor:
 The actions as a predictoor give the following ways to earn:  
 * **Feed sales.** At an epoch, sales revenue (minus fees) for that epoch goes to predictoors. It’s distributed pro-rata by stake among the predictoors who predicted the true value correctly. The revenue for an epoch is the fraction of sales, spread uniformly across subscription length. A price of 3 OCEAN, 5m epochs, and 24h (1440m) subscriptions gives a revenue of (# subscribers) * (3 OCEAN) * / (1440m / 5m).
 * **Stake reshuffling.** At an epoch, incorrect predictoors have their stake slashed. This slashed stake is distributed to the correct predictoors pro-rata on their stake.
-* **Predictoor Data Farming.** This amounts to additional earning for predictoors. [Here are details.](https://docs.oceanprotocol.com/data-farming/predictoordf.md)
+* **Predictoor Data Farming.** This amounts to additional earning for predictoors. [Here are details.](https://docs.oceanprotocol.com/data-farming/predictoordf)
 
 **On Prediction Accuracy.** Don’t expect to be 100% accurate in your up/down predictions. Marginally better than 50% might be enough, and be skeptical if you’re greatly above 50%, you probably have a bug in your testing.
 
@@ -36,7 +36,7 @@ Typical steps as a Trader:
 
 The actions as a trader offer a single yet powerful way to earn: **trading revenue.** Buy low and sell high! (And the opposite with shorting)  
 
-Traders can earn even more via a complementary action: **[Volume DF](https://docs.oceanprotocol.com/data-farming/volumedf.md).** Lock veOCEAN for OCEAN, then point the veOCEAN to data assets with high DCV. Predictoor feeds are great candidates for high-DCV assets.  
+Traders can earn even more via a complementary action: **[Volume DF](https://docs.oceanprotocol.com/data-farming/volumedf).** Lock veOCEAN for OCEAN, then point the veOCEAN to data assets with high DCV. Predictoor feeds are great candidates for high-DCV assets.  
 
 ⚠️ You will lose money trading if your \$ out exceeds your \$ in. Do account for trading fees, order book slippage, cost of prediction feeds, and more. Everything you do is your responsibility, at your discretion. None of this blog is financial advice.  
 
@@ -44,8 +44,8 @@ Traders can earn even more via a complementary action: **[Volume DF](https://doc
 
 Even if you’re not active as a predictoor or a trader, you can earn nonetheless.
 
-* **[Passive DF](https://docs.oceanprotocol.com/data-farming/passivedf.md).** By simply locking your OCEAN for veOCEAN, you can earn passive rewards.  
-* **[Volume DF](https://docs.oceanprotocol.com/data-farming/volumedf.md).** Point the veOCEAN to data assets with high data consume volume (DCV). Predictoor feeds are great candidates for high-DCV assets.
+* **[Passive DF](https://docs.oceanprotocol.com/data-farming/passivedf).** By simply locking your OCEAN for veOCEAN, you can earn passive rewards.  
+* **[Volume DF](https://docs.oceanprotocol.com/data-farming/volumedf).** Point the veOCEAN to data assets with high data consume volume (DCV). Predictoor feeds are great candidates for high-DCV assets.
 
 ## Early Earnings Benchmarks
 
@@ -72,5 +72,5 @@ _Back: [Architecture](pdr-architecture.md)_
 
 _Or, drill into earning further:_
 - [Pdr-backend repo](https://github.com/oceanprotocol/pdr-backend) - how to run bots, specifically
-- [Predictoor Data Farming](https://docs.oceanprotocol.com/data-farming/predictoordf.md) - baseline sales $  for running predictoor bots
+- [Predictoor Data Farming](https://docs.oceanprotocol.com/data-farming/predictoordf) - baseline sales $  for running predictoor bots
 
