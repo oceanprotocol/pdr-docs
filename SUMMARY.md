@@ -1,6 +1,5 @@
 # Table of contents
 
-- [👋 Welcome](README.md)
 * [👀 Predictoor](predictoor/README.md)
   * [Introduction](predictoor/pdr-intro.md)
   * [Architecture](predictoor/pdr-architecture.md)
