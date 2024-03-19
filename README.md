@@ -1,5 +1,5 @@
 ---
-description: Help for wherever you are on your Ocean Protocol journey.
+description: This is Predictoor docs
 cover: .gitbook/assets/cover/docs_banner.png
 coverY: 0
 layout: landing
