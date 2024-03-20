@@ -5,8 +5,6 @@ description: >-
 
 <figure><img src="../.gitbook/assets/predictoor/city.jpeg" alt=""></figure>
 
-# Predictoor Architecture
-
 Contents:
 - [Predictoor Structure](#predictoor-structure)
 - [Predictoor Behavior](#predictoor-behavior)

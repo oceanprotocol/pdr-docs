@@ -1,9 +1,9 @@
 ---
 title: Predictoor FAQ
-description: Frequently Asked Questions about Predictoor
+description: Frequently Asked Questions
 ---
 
-<figure><img src="../.gitbook/assets/predictoor/female12.png" width="65%" height="65%" alt=""></figure>
+<figure><img src="../.gitbook/assets/predictoor/female12.png" width="50%" height="50%" alt=""></figure>
 
 ## Predictoor FAQ
 
