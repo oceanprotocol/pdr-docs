@@ -5,7 +5,7 @@ description: Run AI-powered prediction bots or trading bots on crypto price feed
 <figure><img src="../.gitbook/assets/cover/predictoor_banner.png" alt=""></figure>
 
 
-Ocean Predictoor provides on-chain "prediction feeds" on whether ETH, BTC, etc will rise in the next 5 min or 60 min. "**Predictoors**" submit predictions and stake on them; predictions are aggregated and sold to **traders** as alpha. Get started at [predictoor.ai](https://predictoor.ai).
+**Ocean Predictoor** provides on-chain "prediction feeds" on whether ETH, BTC, etc will rise in the next 5 min or 60 min. "**Predictoors**" submit predictions and stake on them; predictions are aggregated and sold to **traders** as alpha. Get started at [predictoor.ai](https://predictoor.ai).
 
 <div align="center">
 <figure><img src="../.gitbook/assets/predictoor/predictoor_ui_crop.png"></figure>
