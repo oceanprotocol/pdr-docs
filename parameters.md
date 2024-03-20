@@ -1,6 +1,5 @@
-<figure><img src="../.gitbook/assets/predictoor/city.jpeg" alt=""></figure>
+<figure><img src="../.gitbook/assets/predictoor/female24.png" width="65"% height="65%" alt=""></figure>
 
-# Predictoor Parameters
 
 ## Testnet Details
 As of Sep 12, 2023, Predictoor / Ocean contracts are deployed to [Oasis Sapphire testnet](https://docs.oasis.io/dapp/sapphire/#testnet).

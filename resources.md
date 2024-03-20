@@ -1,7 +1,5 @@
 <figure><img src="../.gitbook/assets/predictoor/trapeze.gif" alt=""></figure>
 
-# Further Resources on Predictoor
-
 Main:
 - Mainnet webapp: [predictoor.ai](https://predictoor.ai). Testnet: [test.predictoor.ai](https://test.predictoor.ai)
 - Run bots via [pdr-backend](https://github.com/oceanprotocol/pdr-backend) repo
