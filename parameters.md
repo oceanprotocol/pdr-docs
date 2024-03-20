@@ -1,3 +1,5 @@
+<figure><img src="../.gitbook/assets/predictoor/city.jpeg" alt=""></figure>
+
 # Predictoor Parameters
 
 ## Testnet Details

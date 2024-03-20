@@ -1,3 +1,4 @@
+<figure><img src="../.gitbook/assets/predictoor/trapeze.gif" alt=""></figure>
 
 # Further Resources on Predictoor
 

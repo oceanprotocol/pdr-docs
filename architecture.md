@@ -3,6 +3,9 @@ description: >-
     "It was never easy to look into the future, but it is possible and we should not miss our chance." — Andrei Linde
 ---
 
+<figure><img src="../.gitbook/assets/predictoor/female24.png" alt=""></figure>
+
+
 # Predictoor Architecture
 
 Contents:

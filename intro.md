@@ -3,6 +3,8 @@ description: >-
     "Yesterday is gone. Tomorrow has not yet come. We have only today. Let us begin." - A mother
 ---
 
+<figure><img src="../.gitbook/assets/predictoor/planet.png" alt=""></figure>
+
 # Motivation: Why Predictoor?
 
 [Prediction is intelligence](https://www.explainablestartup.com/2017/06/why-prediction-is-the-essence-of-intelligence.html), artificial or otherwise. We dream of a world of 10,000 truly accurate prediction feeds, for everything from rain forecasts to sea level rise, or traffic congestion to ETH price. [Ocean Predictoor](https://predictoor.ai/) is an on-chain, privacy-enabled, AI-powered application and stack that is bringing this dream to reality.

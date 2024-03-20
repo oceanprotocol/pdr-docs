@@ -3,6 +3,8 @@ title: Predictoor FAQ
 description: Frequently Asked Questions about Predictoor
 ---
 
+<figure><img src="../.gitbook/assets/predictoor/female12.png" alt=""></figure>
+
 ## Predictoor FAQ
 
 ### Getting Started
