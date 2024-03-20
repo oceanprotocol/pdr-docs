@@ -1,4 +1,4 @@
-<figure><img src="../.gitbook/assets/predictoor/female17.png" width="50%" height="50%" alt=""></figure>
+<figure><img src="../.gitbook/assets/predictoor/female17.png" alt=""></figure>
 
 
 ## Testnet Details
