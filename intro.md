@@ -1,7 +1,9 @@
 ---
 description: >-
-    "Yesterday is gone. Tomorrow has not yet come. We have only today. Let us begin." - A mother
+    "Tomorrow belongs to those who can hear it coming." — David Bowie
 ---
+
+<figure><img src="../.gitbook/assets/predictoor/planet.png" alt=""></figure>
 
 # Motivation: Why Predictoor?
 

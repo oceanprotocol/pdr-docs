@@ -5,6 +5,6 @@
 * [Architecture](architecture.md)
 * [How to Earn](earn.md)
 * [Parameters](parameters.md)
-* [Pdr FAQ](faq.md)  
-* [Pdr Resources](resources.md)
+* [FAQ](faq.md)  
+* [Further Resources](resources.md)
 

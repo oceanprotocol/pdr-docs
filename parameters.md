@@ -1,10 +1,11 @@
-# Predictoor Parameters
+<figure><img src="../.gitbook/assets/predictoor/female19.png" alt=""></figure>
+
 
 ## Testnet Details
 As of Sep 12, 2023, Predictoor / Ocean contracts are deployed to [Oasis Sapphire testnet](https://docs.oasis.io/dapp/sapphire/#testnet).
 
 Users need fake OCEAN & ROSE tokens:  
-**- Fake OCEAN.** Staking & payment is in fake OCEAN. Users acquire it via a faucet. [Here's how](https://github.com/oceanprotocol/pdr-backend/blob/main/READMEs/testnet-faucet.md).  
+**- Fake OCEAN.** Staking & payment is in fake OCEAN. Users acquire it via a faucet. [Here's how](https://github.com/oceanprotocol/pdr-dbackend/blob/main/READMEs/testnet-faucet.md).  
 **- Fake ROSE.** Gas fees are in fake ROSE. Users acquire it via a faucet. [Here's how](https://github.com/oceanprotocol/pdr-backend/blob/main/READMEs/testnet-faucet.md).  
 
 ## Mainnet Details
