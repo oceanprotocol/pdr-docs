@@ -31,10 +31,3 @@ Alas, accurate predictions are *hard*. Worse, typical prediction feeds have no a
 **The initial dapp is live at [predictoor.ai](https://predictoor.ai).** It’s for up/down predictions of BTC, ETH, and other tokens’ prices. The dapp helps users build a mental model of Predictoor behavior. Predictoors and traders’ main workflow is to do run predicting / trading bots with the help of the Py SDK. We have seeded Predictoor with bots that have AI/ML models of accuracy comfortably above 50% — a precondition to make \$ trading.
 
 <figure><img src="../.gitbook/assets/predictoor/predictoor_ui.png" alt=""><figcaption>Screenshot from predictoor.ai</figcaption></figure>
-
-
-----
-
-_Next: [Architecture](pdr-architecture.md)_
-
-_Back: [Predictoor Docs main](README.md)_
