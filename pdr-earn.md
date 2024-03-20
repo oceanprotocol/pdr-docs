@@ -64,13 +64,4 @@ The image below has the same experimental setup, but for BTC/USDT pair. The size
 
 <figure><img src="../.gitbook/assets/predictoor/simulated_returns_btc_usdt.png" alt=""><figcaption>Simulated returns vs time of BTC/USDT trading on Binance. Trade size has little impact.</figcaption></figure>
 
-----
-
-_Next: [Parameters](pdr-parameters.md)_
-
-_Back: [Architecture](pdr-architecture.md)_
-
-_Or, drill into earning further:_
-- [Pdr-backend repo](https://github.com/oceanprotocol/pdr-backend) - how to run bots, specifically
-- [Predictoor Data Farming](https://docs.oceanprotocol.com/data-farming/predictoordf) - baseline sales $  for running predictoor bots
 

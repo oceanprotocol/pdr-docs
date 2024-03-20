@@ -26,10 +26,5 @@ Finally, join us on [**Discord**](https://discord.gg/TnXjkR5) to chat with other
 
 _Tomorrow belongs to those who can hear it coming. — David Bowie_
 
-----
-
-_Next: [Introduction](pdr-intro.md)_
-
-_Back: [Docs main](../README.md)_
 
 
