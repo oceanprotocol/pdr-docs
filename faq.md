@@ -3,7 +3,7 @@ title: Predictoor FAQ
 description: Frequently Asked Questions
 ---
 
-<figure><img src="../.gitbook/assets/predictoor/female12.png" alt=""></figure>
+<figure><img src="../.gitbook/assets/predictoor/female44.png" alt=""></figure>
 
 ## Predictoor FAQ
 
