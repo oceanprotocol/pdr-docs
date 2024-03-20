@@ -1,5 +1,5 @@
 ---
-description: Ocean Predictoor -- run AI-powered prediction bots or trading bots on crypto price feeds to earn $
+description: Run AI-powered prediction bots or trading bots on crypto price feeds to earn $
 cover: ../.gitbook/assets/cover/predictoor_banner.png
 coverY: 0
 ---
