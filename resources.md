@@ -18,6 +18,6 @@ For thoroughness:
 
 Congrats, you've gone through all the Predictoor docs!
 
-_Next: Go earn! Start at [how to earn](pdr-earn.md). Or, go to [Predictoor docs homepage](README.md)_
+_Next: Go earn! Start at [how to earn](earn.md). Or, go to [Predictoor docs homepage](README.md)_
 
 
