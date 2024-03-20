@@ -1,4 +1,4 @@
-<figure><img src="../.gitbook/assets/predictoor/machine.png" alt=""></figure>
+<figure><img src="../.gitbook/assets/predictoor/planet2.png" alt=""></figure>
 
 Main:
 - Mainnet webapp: [predictoor.ai](https://predictoor.ai). Testnet: [test.predictoor.ai](https://test.predictoor.ai)
