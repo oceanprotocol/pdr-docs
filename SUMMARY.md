@@ -1,10 +1,10 @@
 # Table of contents
 
 * [Predictoor docs](README.md)
-* [Introduction](pdr-intro.md)
-* [Architecture](pdr-architecture.md)
-* [How to Earn](pdr-earn.md)
-* [Parameters](pdr-parameters.md)
-* [Pdr FAQ](pdr-faq.md)  
-* [Pdr Resources](pdr-resources.md)
+* [Introduction](intro.md)
+* [Architecture](architecture.md)
+* [How to Earn](earn.md)
+* [Parameters](parameters.md)
+* [Pdr FAQ](faq.md)  
+* [Pdr Resources](resources.md)
 
