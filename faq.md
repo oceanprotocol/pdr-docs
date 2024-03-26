@@ -85,7 +85,7 @@ Pricing is 3 OCEAN for one feed for 24 hours. It will be like that for the near-
 
 Predictoor is its own dapp, stack, and set of feeds. In addition, the Ocean Data Farming infrastructure is extended to incentivize for activities within Predictoor.
 
-Starting Nov 9, 2023 via "Predictoor Data Farming", there is 37000 OCEAN (about $10K) and several $K worth of ROSE allocated weekly to Predictoor DF. This will be used to purchase prediction feeds, alongside purchases by traders, etc. 80% of prediction feed sales goes to predictoors themselves.
+Starting Nov 9, 2023 via "Predictoor Data Farming", there is 37500 OCEAN (about $10K) and several $K worth of ROSE allocated weekly to Predictoor DF. This will be used to purchase prediction feeds, alongside purchases by traders, etc. 80% of prediction feed sales goes to predictoors themselves.
 
 </details>
 
