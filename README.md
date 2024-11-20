@@ -16,14 +16,15 @@ description: Run AI-powered prediction bots or trading bots on crypto price feed
 
 - [Introduction](intro.md) - the "why" and "what"
 - [Architecture](architecture.md) - structure, behavior, privacy
-- [How to earn](earn.md) by running a trader or predictoor bot
-  - [Pdr-backend repo](https://github.com/oceanprotocol/pdr-backend) - how to run bots, specifically
-  - [Predictoor Data Farming](https://docs.oceanprotocol.com/data-farming/predictoordf) - baseline sales $  for running predictoor bots
+- How to earn as a ...
+  - [Predictoor](earn-predictoor.md) - running a prediction bot
+  - [Trader](earn-trader.md) - running a trading bot
+  - [Data farmer](earn-df.md) - baseline sales $ for running predictoor bots
 - [Parameters](parameters.md) on price of feeds, more
 - [FAQ](faq.md) and [further resources](resources.md)
+- Core repo: [pdr-backend](https://github.com/oceanprotocol/pdr-backend)
 
 Finally, join us on [**Discord**](https://discord.gg/TnXjkR5) to chat with other predictoors, traders, or devs in the Predictoor ecosystem.
-
 
 _Tomorrow belongs to those who can hear it coming. — David Bowie_
 
