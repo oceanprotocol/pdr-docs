@@ -7,7 +7,7 @@ description: >-
 
 # Motivation: Why Predictoor?
 
-[Prediction is intelligence](https://www.explainablestartup.com/2017/06/why-prediction-is-the-essence-of-intelligence.html), artificial or otherwise. We dream of a world of 10,000 truly accurate prediction feeds, for everything from rain forecasts to sea level rise, or traffic congestion to ETH price. [Ocean Predictoor](https://predictoor.ai/) is an on-chain, privacy-enabled, AI-powered application and stack that is bringing this dream to reality.
+[Prediction is intelligence](https://www.explainablestartup.com/2017/06/why-prediction-is-the-essence-of-intelligence.html), artificial or otherwise. We dream of a world of 10,000 truly accurate prediction feeds, for everything from rain forecasts to sea level rise, or traffic congestion to ETH price. [ASI Predictoor](https://predictoor.ai/) is an on-chain, privacy-enabled, AI-powered application and stack that is bringing this dream to reality.
 
 **Accurate predictions are valuable.** With them, one can take action and create value. Conversely, inaccurate predictions lead to disaster. Predictions have value because they're the [final step in a data supply chain](https://blog.oceanprotocol.com/the-data-value-creation-loop-68e23575be02), right before action is taken by the user.
 
@@ -20,7 +20,7 @@ Alas, accurate predictions are *hard*. Worse, typical prediction feeds have no a
 
 # What's Predictoor?
 
-**Ocean Predictoor is a stack and a dapp for prediction feeds.** It has accountability for accuracy, via staking. It’s globally distributed and censorship-resistant, by being on-chain. We expect its accuracy to improve over time, due to its incentive structure. Its first use case is DeFi token prediction because users can [close the data value-creation loop](https://blog.oceanprotocol.com/the-data-value-creation-loop-68e23575be02) quickly to make tangible \$.
+**ASI Predictoor is a stack and a dapp for prediction feeds.** It has accountability for accuracy, via staking. It’s globally distributed and censorship-resistant, by being on-chain. We expect its accuracy to improve over time, due to its incentive structure. Its first use case is DeFi token prediction because users can [close the data value-creation loop](https://blog.oceanprotocol.com/the-data-value-creation-loop-68e23575be02) quickly to make tangible \$.
 
 <figure><img src="../.gitbook/assets/predictoor/predictoor_overview.png" alt=""><figcaption>Conceptual overview of Predictoor</figcaption></figure>
 
