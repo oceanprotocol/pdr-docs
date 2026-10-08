@@ -85,7 +85,7 @@ Pricing is 3 OCEAN for one feed for 24 hours. It will be like that for the near-
 
 Predictoor is its own dapp, stack, and set of feeds. In addition, the Ocean Data Farming infrastructure is extended to incentivize for activities within Predictoor.
 
-Starting 5 Feb 2026 the rewards are 500 USDC/month and will be distributed in USDC. The ROSE rewards program has concluded.
+Starting 8 Oct 2026 the rewards are 100 USDC/month and will be distributed in USDC. The ROSE rewards program has concluded.
 
 </details>
 
